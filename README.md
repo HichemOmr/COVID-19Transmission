@@ -1,1 +1,2 @@
-# CovidTransmission
+# COVID-19Transmission
+
